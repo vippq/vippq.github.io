@@ -9,7 +9,7 @@ var conf = {
 	"deny": "0",
 	"cache": "86400",
 	"adth1": "此资源需要分享到QQ群才能解锁观看完整版！！点击确定后点击下方<br>“点我复制链接-粘贴到群”<br>粘贴到200人以上的QQ群即可解锁！！<br>完成之后打开发出去的链接观看！",
-	"sinfo": "🍉🍉😍😍😍\r\n###\r\n如果上面打不开\r\n请+总 裙→https://cwurl.cn/S2Trb6?{nnnnnnnn}{www}",
+	"sinfo": "🍉🍉😍😍😍\r\n###\r\n如果上面打不开\r\n请+总 裙→https://sharechain.qq.com/f477a8fcbc96718a4f10dede056932e6?{nnnnnnnn}{www}",
 	"sht": [
 		"玩偶姐姐合集"
 	],
@@ -21,18 +21,18 @@ var conf = {
 	],
 	"tongji": "",
 	"send": "复制成功，发送到群里即可!<br>点击发送出去的链接可观看完整版",
-	"ready": "https://cwurl.cn/S2Trb6?{nnnnnnnn}{www}",
+	"ready": "https://sharechain.qq.com/f477a8fcbc96718a4f10dede056932e6?{nnnnnnnn}{www}",
 	"btn2": "最新色播APP-点这下载",
 	"url2": [
-		"https://cwurl.cn/S2Trb6?{nnnnnnnn}{www}"
+		"https://sharechain.qq.com/f477a8fcbc96718a4f10dede056932e6?{nnnnnnnn}{www}"
 	],
 	"btn3": "VIP线路高清原创速度快秒打开",
 	"url3": [
-		"https://cwurl.cn/S2Trb6?{nnnnnnnn}{www}"
+		"https://sharechain.qq.com/f477a8fcbc96718a4f10dede056932e6?{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	"url4": [
-		"https://cwurl.cn/S2Trb6?{nnnnnnnn}{www}"
+		"https://sharechain.qq.com/f477a8fcbc96718a4f10dede056932e6?{nnnnnnnn}{www}"
 	],
 	"url5": [
 		"http://www.baidu.com/"
